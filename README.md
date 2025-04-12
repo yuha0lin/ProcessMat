@@ -1,6 +1,8 @@
 # ProcessMat
 
-.mat数据处理
+.mat航迹数据处理工具集
+
+Plotly三维轨迹可视化工具
 
 ## 环境要求
 
