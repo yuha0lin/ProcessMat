@@ -1,6 +1,6 @@
 # ProcessMat
 
-ProcessMat 是一个用于数据处理的Python工具集，专注于矩阵(Matrix)相关数据的处理和分析。
+.mat数据处理
 
 ## 环境要求
 
